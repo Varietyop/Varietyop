@@ -1,8 +1,8 @@
 
 
+![Black Blue and Neon Pink Modern Tech Electronics and Technology X-Frame Banner](https://user-images.githubusercontent.com/85181894/149267124-bf741e5c-9942-48d5-9b84-1457e84f1887.png)
 
 
-![Black Blue and Neon Pink Modern Tech Electronics and Technology X-Frame Banner](https://user-images.githubusercontent.com/85181894/149266958-283ec0b3-750a-485a-be97-9aa86cd209cd.png)
 
 
 
