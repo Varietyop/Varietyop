@@ -17,6 +17,8 @@
 - 📫 variety.webop@gmail.com
 - My Youtube channel. Gaming and Tech. https://www.youtube.com/channel/UCOzP7pE267-vnP2rvUQbo9A
 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <!---
 Varietyop/Varietyop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
