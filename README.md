@@ -15,6 +15,7 @@
 - 🌱 I’m currently learning C# and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 variety.webop@gmail.com
+- My Youtube channel. Gaming and Tech. https://www.youtube.com/channel/UCOzP7pE267-vnP2rvUQbo9A
 
 <!---
 Varietyop/Varietyop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
