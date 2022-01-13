@@ -1,3 +1,15 @@
+
+
+
+
+![Black Blue and Neon Pink Modern Tech Electronics and Technology X-Frame Banner](https://user-images.githubusercontent.com/85181894/149266958-283ec0b3-750a-485a-be97-9aa86cd209cd.png)
+
+
+
+
+
+
+
 - 👋 Hi, I’m @ArnavPathak
 - 👀 I’m interested in C++, Linux, Python, Visual Studio Code. Filmora.
 - 🌱 I’m currently learning C# and C++
